@@ -1,4 +1,5 @@
 # THIS IS MY RECIPE-BOOK !
+A simple sample build in Angular 4/5.
 
 ## MyApp
 
